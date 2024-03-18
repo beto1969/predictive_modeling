@@ -1,6 +1,6 @@
 # predictive_modeling
 read csv files using pandas.
-You can start with whichever you prefer
+You can start with whichever you prefer.
 What I will need in the end is a pandas dataframe with the following columns(in no particular order):
    - machine_id
    - model 
